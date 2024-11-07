@@ -1,0 +1,74 @@
+Request user to enter a positive number
+Read input 
+
+ if the input is not 0= 
+     store the input as "number"
+	 request another input of a positive number 
+
+If the input is still 0 = 
+    Check if the input is larger than the "number"
+	if it is larger than "number " then store as "largest number"
+	request another input of a positive number
+
+UNTIL or IF the input = 0 THEN
+     print the "largest number"
+    
+_________________________________________________________________________________________
+
+Request users' name
+Store users' name as "first_name"
+      print "first_name" and "Hello World".
+
+__________________________________________________________________________________________
+
+Set Sum = 0
+Set Count = 0 
+
+Read input 
+  sum = input + sum
+  and set count to + 1
+
+continue until there are no more inputs
+
+THEN 
+Calculate average = sum / count 
+
+print average value
+
+____________________________________________________________________________________________
+
+Request user to input bought items from Grocery List 
+Read input items
+
+Remove the input items from Grocery list 
+
+Sort remaining items A-Z and store as "remaining items"
+
+Print "don't forget to buy" and "remaining items"
+
+
+EXAMPLE:
+Grocery list: Apples, Oranges, Pears, milk, chocolate 
+Input bought items = Apples and Oranges 
+Remove Apples and oranges from Grocery List 
+Sort Remaining items A-Z = Chocolate, milk, Pears and store this as 'remaining items'
+Print - " Don't forget to buy 'Chocolate, milk, Pears' "
+________________________________________________________________________________________________
+
+X = Input 1 
+Y = Input 2
+
+Read X,Y
+
+   Sum = X + Y and store sum as "S"
+   Sum = S / 2 and store sum as "A"
+   Sum = X * Y and store sum as "P'
+
+Write SAP
+________________________________________________________________________________________________
+
+
+
+
+
+
